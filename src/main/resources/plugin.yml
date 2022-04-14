@@ -1,0 +1,14 @@
+name: KotlinPlugin
+version: '1.0.0'
+main: com.brakezap.KotlinPlugin
+api-version: 1.18
+authors: [ BrakeZap ]
+commands:
+  createregion:
+    aliases:
+      - 'cr'
+    description: 'Create regions'
+  listregions:
+    aliases:
+      - 'lr'
+    description: 'List regions'
